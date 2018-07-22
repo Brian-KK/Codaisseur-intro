@@ -133,6 +133,7 @@ background-color: rgb(217, 165, 118);
   border-width: 5px;
   border-style: solid;
   border-radius: 50%;
+  max-width: 95%;
 }
 
 .container #intro {
